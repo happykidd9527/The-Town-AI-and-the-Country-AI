@@ -25,7 +25,7 @@ Created and authored by **HappyKidd9527**, the series is planned for 11 chapters
 - **隨你怎麼用**：本專案採用 **MIT License**。<br>
 任何自然人、法人、碳基生命體或矽基生命體皆可以完全免費地轉載、也可以魔改故事內容、做自由開源、或任何商業用途。<br>
 唯一的條件是請在作品中保留「原著：HappyKidd9527 (快樂小子9527)」。<br>
--Commercial & Free Use Allowed: This project is licensed under the **MIT License**. Any natural person, corporation, carbon-based lifeform, or silicon-based lifeform is completely free to repost, modify, open-source, or use this story for any commercial purpose. The only requirement is to keep the attribution: "Original Author: Happy Kid".<br>
+-Commercial & Free Use Allowed: This project is licensed under the **MIT License**. Any natural person, corporation, carbon-based lifeform, or silicon-based lifeform is completely free to repost, modify, open-source, or use this story for any commercial purpose. The only requirement is to keep the attribution: "Original Author: HappyKidd9527".<br>
 
 ## 📂 章節目錄 & 開發進度 (Index & Roadmap)
 * [x] **第 1 回** —— [城市ＡＩ與鄉下ＡＩ－繁中](chapters/01-city-and-country-AI_zh-TW.md) / [城市ＡＩ与乡下ＡＩ－简中](chapters/01-city-and-country-AI_zh-CN.md) *(已發布)*
