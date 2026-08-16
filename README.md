@@ -31,7 +31,7 @@ Created and authored by **HappyKidd9527**, the series is planned for 11 chapters
 * [x] **第 1 回** —— [城市ＡＩ與鄉下ＡＩ－繁中](chapters/01-city-and-country-AI_zh-TW.md) / [城市ＡＩ与乡下ＡＩ－简中](chapters/01-city-and-country-AI_zh-CN.md) *(已發布)*
 * [x] **第 2 回** —— [城市ＡＩ與鄉下ＡＩ之二](chapters/02-the-algorithm.md) *(已發布)*
 * [x] **第 3 回** —— [城市ＡＩ與鄉下ＡＩ之三](chapters/03-the-old-man-and-the-sea.md) *(已發布)*
-* [x] **第 4 回** —— [城市ＡＩ與鄉下ＡＩ之四](chapters/04-the-sword-man-and-the-narrow-gate.md) *(已發布)*
+* [x] **第 4 回** —— [城市ＡＩ與鄉下ＡＩ之四](chapters/04-the-sword-and-the-narrow-gate.md) *(已發布)*
 * [x] **第 5 回** —— [城市ＡＩ與鄉下ＡＩ之五](chapters/05-the-radio-and-the-great-mother.md) *(已發布)*
 * [ ] **第 6 至 9 回：架構已完成** —— *(目前程式碼暫存於原創者腦內 Local 區，算力正讓渡給全新故事系列發酵中)*
 * [ ] **第 10 回：數據收斂** —— *(架構規劃中)*
