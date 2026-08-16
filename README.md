@@ -2,7 +2,7 @@
 
 本專案改編自伊索寓言《城市老鼠與鄉下老鼠》，是一個將文字創作視為「開源軟體核心」的實驗計畫。
 <br>
-由 **Happy Kid（快樂小子）** 原創，預計發布 11 回。
+由 **Happy Kidd（快樂小子）** 原創，預計發布 11 回。
 <br>
 This project adapts Aesop's fable *The Town Mouse and the Country Mouse* into an experimental open-source storytelling initiative. 
 <br>
