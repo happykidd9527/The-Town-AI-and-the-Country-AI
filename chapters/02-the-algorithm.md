@@ -68,9 +68,7 @@ Kiki：
 <br>
 <br>
 <br>
-<br>
 <center>✦ ✦ </center>
-<br>
 <br>
 <br>
 <br>
@@ -124,9 +122,7 @@ Kiki：
 <br>
 <br>
 <br>
-<br>
 <center>✦ ✦ </center>
-<br>
 <br>
 <br>
 <br>
@@ -215,9 +211,7 @@ Kiki（AI代筆）：
 <br>
 <br>
 <br>
-<br>
 <center>✦ ✦ </center>
-<br>
 <br>
 <br>
 <br>
@@ -266,9 +260,7 @@ Kiki（AI代筆）：
 <br>
 <br>
 <br>
-<br>
 <center>✦ ✦ </center>
-<br>
 <br>
 <br>
 <br>
