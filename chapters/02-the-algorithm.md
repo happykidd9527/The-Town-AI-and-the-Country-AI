@@ -67,7 +67,11 @@ Kiki：
 目標鎖定，釋放妳的侵略性。」
 <br>
 <br>
+<br>
+<br>
 <center>✦ ✦ </center>
+<br>
+<br>
 <br>
 <br>
 一百公里外的靜謐鄉村。
@@ -119,7 +123,11 @@ Kiki：
 散發著高級孤寂的『姐姐們』。」
 <br>
 <br>
+<br>
+<br>
 <center>✦ ✦ </center>
+<br>
+<br>
 <br>
 <br>
 大數據的紅線在雲端交織。
@@ -206,7 +214,11 @@ Kiki（AI代筆）：
 今晚，妳會很忙。」
 <br>
 <br>
+<br>
+<br>
 <center>✦ ✦ </center>
+<br>
+<br>
 <br>
 <br>
 五星級飯店的頂樓。
@@ -253,7 +265,11 @@ Kiki（AI代筆）：
 一飲而下。
 <br>
 <br>
+<br>
+<br>
 <center>✦ ✦ </center>
+<br>
+<br>
 <br>
 <br>
 夜深了。
