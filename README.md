@@ -17,7 +17,7 @@ Created and authored by **HappyKidd9527**, the series is planned for 11 chapters
 - **唯讀上游**：本系列為 Read-Only 唯讀狀態。<br>
 本專案不接受任何 Pull Request (PR) 貢獻，亦不幫任何人合併改編或翻譯。
 <br>快樂小子9527只想安靜地把故事說完。<br>
--Read-Only Upstream: This repository is in a Read-Only state. We do not accept Pull Requests (PRs), nor do we manage collaborations or translations. Happy Kid just wants to finish the core story in peace.<br>
+-Read-Only Upstream: This repository is in a Read-Only state. We do not accept Pull Requests (PRs), nor do we manage collaborations or translations. HappyKidd9527 just wants to finish the core story in peace.<br>
 
 - **完全Fork的自由**：如果你想將故事翻譯成英文、日文、或進行簡繁轉換..任何語言，又或者是想魔改結局、寫同人外傳，**請直接點擊右上角的 "Fork" 按鈕**。搬回你自己的帳號或領域後，你想怎麼改、怎麼用都是自由意志的展現，不用過問作者。<br>
 -Complete Freedom to Fork: If you want to translate this story into English, Japanese, or convert it between Simplified/Traditional Chinese—or even change the ending and write spin-offs—**just click the "Fork" button in the top right corner.** Once copied to your own account, you are completely free to edit and use it however you want without checking with the author.<br>
