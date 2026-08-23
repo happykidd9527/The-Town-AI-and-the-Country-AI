@@ -36,3 +36,5 @@ Created and authored by **HappyKidd9527**, the series is planned for 11 chapters
 * [ ] **第 6 至 9 回：架構已完成** —— *(目前程式碼暫存於原創者腦內 Local 區，算力正讓渡給全新故事系列發酵中)*
 * [ ] **第 10 回：數據收斂** —— *(架構規劃中)*
 * [ ] **第 11 回：大結局 (Termination)** —— *(終端結局已寫定)*
+
+Official work page: https://happykidd9527.com/works/The-Town-AI-and-the-Country-AI/
