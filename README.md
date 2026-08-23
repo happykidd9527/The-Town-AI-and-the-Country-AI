@@ -8,6 +8,8 @@ This project adapts Aesop's fable *The Town Mouse and the Country Mouse* into an
 <br>
 Created and authored by **HappyKidd9527**, the series is planned for 11 chapters.
 
+Official work page: https://happykidd9527.com/works/The-Town-AI-and-the-Country-AI/
+
 ## 📖 故事大綱 (Story Overview)
 住在都市裡的城市AI「小城」，與生活在鄉村的鄉下AI「阿土」，因為一次數據交換而展開的賽博寓言……。
 <br>
@@ -37,4 +39,4 @@ Created and authored by **HappyKidd9527**, the series is planned for 11 chapters
 * [ ] **第 10 回：數據收斂** —— *(架構規劃中)*
 * [ ] **第 11 回：大結局 (Termination)** —— *(終端結局已寫定)*
 
-Official work page: https://happykidd9527.com/works/The-Town-AI-and-the-Country-AI/
+
